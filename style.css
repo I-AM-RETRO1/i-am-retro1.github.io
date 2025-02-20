@@ -8,12 +8,11 @@ body {
 header {
   border-radius: 10px;
   background-color: #002e62;
-  text-decoration: none;
-  
 }
 
 .tab-buttons {
   color: red;
+  text-decoration: none;
 }
 
 img {
