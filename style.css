@@ -6,7 +6,7 @@ body {
 }
 
 img {
-  
+  border-radius: 10;
 }
 
 .component-title {
@@ -32,7 +32,7 @@ img {
 
   padding: 2px;
 
-  background-color: navy; /*this is the base color*/
+  background-color: #002e63; /*this is the base color*/
   border-radius: 9px;
 }
 
