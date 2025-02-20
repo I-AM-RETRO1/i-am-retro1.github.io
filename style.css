@@ -19,7 +19,7 @@ img {
   margin: 0;
   font-size: 1rem;
   font-weight: 700;
-  color: #c01e1e; /*I have no idea what this color does*/
+  color: #4cc01e; /*I have no idea what this color does*/
   text-align: center;
 }
 
@@ -40,7 +40,7 @@ img {
   content: "";
   width: 130px;
   height: 28px;
-  background: #4400ff;
+  background: #4400ff; /*this is the slider color*/ 
   position: absolute;
   top: 2px;
   left: 2px;
