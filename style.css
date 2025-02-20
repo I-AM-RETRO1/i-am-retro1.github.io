@@ -13,6 +13,7 @@ header {
   border-radius: 10px;
   background-color: #002e62;
 }
+
 .tab-buttons {
   color: red;
   text-decoration: none;
@@ -20,6 +21,14 @@ header {
   margin: 20px;
 }
 
+.tab-buttons:hover {
+  color: darkred;
+  text-decoration: underline;
+  font-size: 30px;
+  margin: 20px;
+}
+
 img {
   border-radius: 10px;
+  object-fit: ;
 }
