@@ -40,7 +40,7 @@ img {
   content: "";
   width: 130px;
   height: 28px;
-  background: green; /*this is the slider color*/ 
+  background: chocolate; /*this is the slider color*/ 
   position: absolute;
   top: 2px;
   left: 2px;
