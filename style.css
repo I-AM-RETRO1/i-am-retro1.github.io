@@ -8,6 +8,10 @@ body {
 header {
   border-radius: 10px;
   background-color: #002e62;
+  text-decoration: none;
+  a {
+    color: red
+  }
 }
 
 img {
