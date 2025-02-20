@@ -13,12 +13,11 @@ header {
   border-radius: 10px;
   background-color: #002e62;
 }
-
 .tab-buttons {
   color: red;
   text-decoration: none;
   font-size: 30px;
-  
+  margin: 20px;
 }
 
 img {
