@@ -19,7 +19,7 @@ img {
   margin: 0;
   font-size: 1rem;
   font-weight: 700;
-  color: #c01e1e;
+  color: #c01e1e; /*I have no idea what this color does*/
   text-align: center;
 }
 
@@ -32,7 +32,7 @@ img {
 
   padding: 2px;
 
-  background-color: #11cc30;
+  background-color: #11cc30; /*this is the base color*/
   border-radius: 9px;
 }
 
@@ -40,7 +40,7 @@ img {
   content: "";
   width: 130px;
   height: 28px;
-  background: #ffffff;
+  background: #4400ff;
   position: absolute;
   top: 2px;
   left: 2px;
