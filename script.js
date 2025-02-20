@@ -1,7 +1,8 @@
-setup() {
+/*setup() {
   
 }
 
 draw() {
   
 }
+*/
