@@ -5,6 +5,11 @@ body {
   text-align: center;
 }
 
+header {
+  border-radius: 10px;
+  background-color: #002e62;
+}
+
 img {
-  border-radius: 10;
+  border-radius: 10px;
 }
