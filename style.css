@@ -32,7 +32,7 @@ img {
 
   padding: 2px;
 
-  background-color: #11cc30; /*this is the base color*/
+  background-color: navy; /*this is the base color*/
   border-radius: 9px;
 }
 
@@ -40,7 +40,7 @@ img {
   content: "";
   width: 130px;
   height: 28px;
-  background: #4400ff; /*this is the slider color*/ 
+  background: chocolate; /*this is the slider color*/ 
   position: absolute;
   top: 2px;
   left: 2px;
