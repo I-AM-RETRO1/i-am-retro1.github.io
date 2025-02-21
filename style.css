@@ -1,7 +1,7 @@
 body {
   background: #003876;
   overflow: hidden;
-  color: red;
+  color: rgb(255, 47, 0);
   text-align: center;
 }
 
@@ -15,7 +15,7 @@ header {
 }
 
 .tab-buttons {
-  color: red;
+  color: rgb(255, 47, 0);
   text-decoration: none;
   font-size: 30px;
   margin: 20px;
