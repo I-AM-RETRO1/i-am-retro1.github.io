@@ -19,6 +19,8 @@ header {
   text-decoration: none;
   font-size: 30px;
   margin: 20px;
+  border-radius: 5px;
+  background-color: #072271;
 }
 
 .tab-buttons:hover {
