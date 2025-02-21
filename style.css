@@ -12,22 +12,24 @@ h1 {
 header {
   border-radius: 10px;
   background-color: #002e62;
+  margin: 5px;
 }
 
 .tab-buttons {
   color: rgb(255, 47, 0);
   text-decoration: none;
   font-size: 30px;
-  margin: 20px;
+  margin: 12px;
   border-radius: 5px;
-  background-color: #710707;
+  background-color: #00234c;
 }
 
 .tab-buttons:hover {
   color: darkred;
   text-decoration: underline;
   font-size: 30px;
-  margin: 20px;
+  background-color: #1752b9;
+  margin: 12px;
 }
 
 img {
