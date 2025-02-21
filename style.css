@@ -1,7 +1,7 @@
 body {
   background: #003876;
   overflow: hidden;
-  color: rgb(255, 47, 0);
+  color: white;
   text-align: center;
 }
 
@@ -16,12 +16,12 @@ header {
 }
 
 .tab-buttons {
-  color: rgb(255, 47, 0);
+  color: white;
   text-decoration: none;
   font-size: 30px;
   margin: 12px;
   border-radius: 5px;
-  background-color: #00234c;
+  background-color: navy;
 }
 
 .tab-buttons:hover {
