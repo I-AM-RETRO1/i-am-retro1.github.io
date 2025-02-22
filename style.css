@@ -21,6 +21,11 @@ h3 {
   text-align: left;
 }
 
+h4 {
+  font-family: 'Times New Roman';
+  color: #c50;
+}
+
 header {
   border-radius: 10px;
   background-color: #002e62;
