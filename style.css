@@ -96,13 +96,17 @@ header {
   padding: 14px;
 }
 
+#title {
+  font-size: 76px;
+}
+
 #info-text {
   border-radius: 10px;
   background-color: #002e62;
   width: 55%;
   margin: auto;
   font-size: 23px;
-  padding: 5px;
+  padding: 10px;
 }
 
 #written-by {
