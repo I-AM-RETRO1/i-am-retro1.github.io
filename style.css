@@ -101,6 +101,18 @@ header {
   background-color: #002e62;
   width: 55%;
   margin: 0 auto;
+  font-size: 23;
+  padding: 5px;
+}
+
+#written-by {
+  margin: 0 auto;
+}
+
+.about-and-picture {
+  border-radius: 5px;
+  background-color: #002e62;
+  padding: 5px;
 }
 
 img {
