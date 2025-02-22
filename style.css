@@ -32,7 +32,7 @@ header {
   margin: 12px;
 }
 
-.tab-buttons:active {
+.tab-buttons.active {
   color: white;
   text-decoration: underline;
   font-size: 30px;
