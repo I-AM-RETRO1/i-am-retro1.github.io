@@ -1,4 +1,5 @@
 body {
+  overflow:scroll;
   background: #003876;
   overflow: hidden;
   color: white;
