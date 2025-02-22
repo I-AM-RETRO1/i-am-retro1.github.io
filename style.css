@@ -107,18 +107,24 @@ header {
 
 #written-by {
   margin: 0 auto;
+  text-align: center;
 }
 
 .about-and-picture {
   border-radius: 10px;
   background-color: #002e62;
   padding: 10px;
-  margin: 0 auto;
+  margin: 5px auto;
   width: 60%;
+}
+
+.about-and-picture img {
+  max-width: 57%;
 }
 
 .about-and-picture p {
   margin: 0 auto;
+  text-align: center;
 }
 
 img {
