@@ -22,6 +22,7 @@ header {
   margin: 12px;
   border-radius: 5px;
   background-color: navy;
+  padding: 5px;
 }
 
 .tab-buttons:hover {
