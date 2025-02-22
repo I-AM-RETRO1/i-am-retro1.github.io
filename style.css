@@ -4,6 +4,7 @@ body {
   overflow: hidden;
   color: white;
   text-align: center;
+  overflow-y: auto; /* Enable vertical scrolling */
 }
 
 h1 {
@@ -67,6 +68,34 @@ header {
   margin: 12px;
   padding: 14px;
 }
+
+.year-buttons {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: navy;
+}
+
+.year-buttons:hover {
+  color: black;
+  text-decoration: underline;
+  font-size: 30px;
+  background-color: #1752b9;
+  padding: 8;
+  margin: 12px;
+}
+
+.year-buttons.active {
+  color: white;
+  text-decoration: underline;
+  font-size: 30px;
+  background-color: #c50;
+  margin: 12px;
+  padding: 14px;
+}
+
 
 img {
   border-radius: 10px;
