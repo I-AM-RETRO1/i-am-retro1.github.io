@@ -96,6 +96,11 @@ header {
   padding: 14px;
 }
 
+#info-text {
+  border-radius: 10px;
+  background-color: #002e62;
+  width: 55%;
+}
 
 img {
   border-radius: 10px;
