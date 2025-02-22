@@ -33,7 +33,7 @@ header {
 }
 
 .tab-buttons:active {
-  color: black;
+  color: white;
   text-decoration: underline;
   font-size: 30px;
   background-color: #c50;
