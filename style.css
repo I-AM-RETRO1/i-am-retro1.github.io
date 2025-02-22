@@ -25,7 +25,7 @@ header {
 }
 
 .tab-buttons:hover {
-  color: darkred;
+  color: black;
   text-decoration: underline;
   font-size: 30px;
   background-color: #1752b9;
