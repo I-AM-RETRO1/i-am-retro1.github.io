@@ -100,13 +100,13 @@ header {
   border-radius: 10px;
   background-color: #002e62;
   width: 55%;
-  margin: 7 auto;
-  font-size: 24px;
+  margin: auto;
+  font-size: 23px;
   padding: 5px;
 }
 
 #written-by {
-  margin: 0 auto;
+  margin: 4px;
   text-align: center;
 }
 
