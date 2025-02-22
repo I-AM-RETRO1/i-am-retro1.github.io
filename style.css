@@ -13,6 +13,7 @@ header {
   border-radius: 10px;
   background-color: #002e62;
   margin: 5px;
+  padding: 20px;
 }
 
 .tab-buttons {
@@ -22,7 +23,6 @@ header {
   margin: 12px;
   border-radius: 5px;
   background-color: navy;
-  padding: 5px;
 }
 
 .tab-buttons:hover {
