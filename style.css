@@ -32,6 +32,14 @@ header {
   margin: 12px;
 }
 
+.tab-buttons:active {
+  color: black;
+  text-decoration: underline;
+  font-size: 30px;
+  background-color: #c50;
+  margin: 12px;
+}
+
 img {
   border-radius: 10px;
   height: 100px;
