@@ -39,7 +39,7 @@ header {
   border-radius: 10px;
   background-color: #002e62;
   margin: 13px;
-  padding: 5px;
+  padding: 10px;
 }
 
 .tab-buttons {
@@ -65,7 +65,7 @@ header {
   text-decoration: underline;
   font-size: 30px;
   background-color: #c50;
-  margin: 12px;
+  margin: 16px;
   padding: 14px;
 }
 
@@ -113,6 +113,7 @@ header {
   border-radius: 5px;
   background-color: #002e62;
   padding: 5px;
+  margin: 0 auto;
 }
 
 img {
