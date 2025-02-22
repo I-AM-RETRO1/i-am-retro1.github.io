@@ -32,7 +32,7 @@ header {
   margin: 12px;
 }
 
-.tab-buttons:visited {
+.tab-buttons:active {
   color: black;
   text-decoration: underline;
   font-size: 30px;
