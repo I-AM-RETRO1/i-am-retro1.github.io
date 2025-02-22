@@ -110,9 +110,14 @@ header {
 }
 
 .about-and-picture {
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: #002e62;
   padding: 5px;
+  margin: 0 auto;
+  width: 60%;
+}
+
+.about-and-picture p {
   margin: 0 auto;
 }
 
