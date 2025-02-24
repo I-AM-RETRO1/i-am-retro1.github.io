@@ -137,6 +137,12 @@ header {
   text-align: center;
 }
 
+figure {
+  border-radius: 10px;
+  background-color: #002e62;
+  margin: 10px
+}
+
 img {
   border-radius: 10px;
   height: 500px;
