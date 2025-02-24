@@ -140,7 +140,9 @@ header {
 figure {
   border-radius: 10px;
   background-color: #002e62;
-  margin: 10px
+  margin: 10px;
+  padding: 10px;
+  width: fit-content;
 }
 
 img {
