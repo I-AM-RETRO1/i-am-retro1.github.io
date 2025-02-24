@@ -124,6 +124,7 @@ header {
 
 .about-and-picture img {
   max-width: 57%;
+  height: auto;
 }
 
 .about-and-picture p {
