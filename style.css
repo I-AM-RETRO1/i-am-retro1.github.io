@@ -42,6 +42,10 @@ header {
   padding: 10px;
 }
 
+.index-images {
+  height: 400px;
+}
+
 .tab-buttons {
   color: white;
   text-decoration: none;
