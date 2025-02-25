@@ -133,7 +133,7 @@ header {
 }
 
 .about-and-picture p {
-  margin: 0 auto;
+  margin: 0px auto;
   text-align: center;
 }
 
@@ -141,8 +141,16 @@ figure {
   border-radius: 10px;
   background-color: #002e62;
   margin: 10px auto;
-  padding: 10px;
+  padding: 15px;
   width: 80%;
+}
+
+figcaption {
+  border-radius: 10px;
+  background-color: rgba(98, 98, 98, 0.671);
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
 }
 
 img {
