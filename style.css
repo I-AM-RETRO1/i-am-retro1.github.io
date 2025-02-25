@@ -145,7 +145,13 @@ figure {
   width: 80%;
 }
 
+figure img {
+  width: 60%;
+  height: auto;
+}
+
 figcaption {
+  width: 60%;
   border-radius: 10px;
   background-color: rgba(98, 98, 98, 0.671);
   text-align: center;
