@@ -135,6 +135,7 @@ header {
 .about-and-picture p {
   margin: 0 auto;
   text-align: center;
+  width: 57%;
 }
 
 figure {
