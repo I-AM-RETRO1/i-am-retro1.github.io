@@ -102,7 +102,7 @@ header {
 
 #title {
   font-size: 76px;
-  text-shadow: 4px 4px #000000
+  text-shadow: -4px 4px #000000
 }
 
 #info-text {
