@@ -128,14 +128,14 @@ header {
 }
 
 .about-and-picture img {
-  max-width: 57%;
+  width: 35%;
   height: auto;
 }
 
 .about-and-picture p {
   margin: 0 auto;
   text-align: center;
-  width: 57%;
+  width: 35%;
 }
 
 figure {
