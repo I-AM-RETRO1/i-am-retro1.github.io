@@ -155,7 +155,7 @@ figcaption {
   border-radius: 10px;
   background-color: rgba(98, 98, 98, 0.671);
   text-align: center;
-  margin: 10px;
+  margin: 10px auto;
   padding: 5px;
 }
 
