@@ -29,11 +29,7 @@ h4 {
   color: red;
 }
 
-h5 {
-  font-family: 'Arial';
-  font-size: medium;
-  text-align: center;
-}
+
 
 header {
   border-radius: 10px;
@@ -161,7 +157,7 @@ figcaption {
 
 a {
   color: white;
-  
+
 }
 
 img {
